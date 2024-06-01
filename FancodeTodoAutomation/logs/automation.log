@@ -1,0 +1,17 @@
+17:54:08.688 [main] INFO  api.test.UserTodoTests.TestBase - Current Testing UserId is: 10
+17:54:08.708 [main] INFO  api.test.UserTodoTests.TestBase - Entering into - Reading User from the service
+17:54:10.934 [main] INFO  api.test.UserTodoTests.TestBase - ***********Successfully retrieved user for Id: 10 ************
+17:54:10.979 [main] INFO  api.test.UserTodoTests.TestBase - Latitude of User City=-38.2386
+17:54:10.979 [main] INFO  api.test.UserTodoTests.TestBase - Longitude of User City=57.2232
+17:54:10.981 [main] INFO  api.test.UserTodoTests.TestBase - User is the citizen of Fancode
+17:54:10.981 [main] INFO  api.test.UserTodoTests.TestBase - Entering into Reading User ToDo's Task from the service
+17:54:11.128 [main] INFO  api.test.UserTodoTests.TestBase - ***********Successfully retrieved UserTasks for Id: 10 ************
+17:54:11.276 [main] INFO  api.test.UserTodoTests.TestBase - Total ToDo's Task in the name of user: 20
+17:54:11.278 [main] INFO  api.test.UserTodoTests.TestBase - Completed ToDo's Task in the name of user: 12
+17:54:11.279 [main] INFO  api.test.UserTodoTests.TestBase - Pending ToDo's Task in the name of user: 8
+18:03:20.789 [main] INFO  api.test.UserTodoTests.TestBase - Current Testing UserId is: 7
+18:03:20.801 [main] INFO  api.test.UserTodoTests.TestBase - Entering into - Reading User from the service
+18:03:23.311 [main] INFO  api.test.UserTodoTests.TestBase - ***********Successfully retrieved user for Id: 7 ************
+18:03:23.345 [main] INFO  api.test.UserTodoTests.TestBase - Latitude of User City=24.8918
+18:03:23.346 [main] INFO  api.test.UserTodoTests.TestBase - Longitude of User City=21.8984
+18:03:23.346 [main] INFO  api.test.UserTodoTests.TestBase - User is not the citizen of Fancode
